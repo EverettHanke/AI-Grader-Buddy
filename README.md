@@ -12,15 +12,15 @@
 </ul>
 
 # Meet the Team
-<h1>Product Manager & Developer</h1>
-<h2>Everett Hanke</h2>
+<h2>Product Manager & Developer</h2>
+<h3>Everett Hanke</h3>
 
-<h1>Scrum Master & Developer</h1>
-<h2>Brandon Viorato</h2>
+<h2>Scrum Master & Developer</h2>
+<h3>Brandon Viorato</h3>
 
-<h1>Developer Team</h1>
-<h2>Blake Hanson</h2>
-<h2>Dale Kanikkeberg</h2>
+<h2>Developer Team</h2>
+<h3>Blake Hanson</h3>
+<h3>Dale Kanikkeberg</h3>
 
 
 
